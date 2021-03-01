@@ -18,4 +18,4 @@ let autos = [
     patente: 'JJK116',
     vendido: false}
     ]
-    module.exports = listaDeAutos;
+    module.exports = autos;
